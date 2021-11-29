@@ -8,7 +8,7 @@
         "Badlands",
         "Bayou",
         "Beast Within",
-        "Bird's of Paradise",
+        "Birds of Paradise",
         "Birthing Pod",
         "Blood Crypt",
         "Bloodghast",
@@ -35,9 +35,9 @@
         "Forest",
         "Gaea's Cradle",
         "Goblin Bombardment",
+        "Golgari Germination",
         "Golgari Rot Farm",
         "Golgari Signet",
-        "Golgari-Germination",
         "Grave Pact",
         "Grave Titan",
         "Graveborn Muse",
@@ -101,18 +101,5 @@
         "Wheel of Fortune",
         "Wooded Foothills",
         "Wurmcoil Engine"
-    ],
-    "counts": {
-        "artifact": 17,
-        "creature": 26,
-        "enchantment": 13,
-        "instant": 7,
-        "land": 35,
-        "sorcery": 9,
-        "notes": [
-            "+1 creature if you count Animate Dead",
-            "+1 creature if yu count Purpohoros",
-            "-1 enchantment if you don't count Animate Dead"
-        ]
-    }
+    ]
 }
